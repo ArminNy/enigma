@@ -22,15 +22,13 @@ chmod +x api.sh
 
 #for launch cli
 
-cd enigma
-chmod +x cli.sh
-screen ./cli.sh
+cd enigma && chmod +x cli.sh && screen ./cli.sh
 
 #for launch api
 
-cd enigma
-chmod +x api.sh
-screen ./api.sh
+cd enigma && chmod +x api.sh && screen ./api.sh
+
+----------------------------------------------------------------------
 
 اموزش به صورت ویدیو در کانال تلگرام 
 

@@ -29,7 +29,3 @@ cd enigma && chmod +x cli.sh && screen ./cli.sh
 cd enigma && chmod +x api.sh && screen ./api.sh
 
 ----------------------------------------------------------------------
-
-اموزش به صورت ویدیو در کانال تلگرام 
-
-@learn_cli_bot
